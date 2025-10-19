@@ -48,7 +48,7 @@ def extract_RDVs_from_notion(myTimer: func.TimerRequest) -> None:
         "Content-Type": "application/json"
     }
 
-    notion_url = "https://api.notion.com/v1/databases/1e2e57be533280618f07d793b38bcf09/query"
+    notion_url = "https://api.notion.com/v1/databases/'ton id-databse'/query"
     payload, all_rows = {}, []
 
     while True:

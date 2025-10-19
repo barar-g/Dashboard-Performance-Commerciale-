@@ -21,7 +21,7 @@ def extract_dim_clients(myTimer: func.TimerRequest) -> None:
         "Content-Type": "application/json"
     }
 
-    notion_url = "https://api.notion.com/v1/databases/e282d8ea-c57b-4b60-b6e5-41fdf0a74e44/query"
+    notion_url = "https://api.notion.com/v1/databases/'ton id-datbase'/query"
 
     all_rows = []
     payload = {}

@@ -36,7 +36,7 @@ def timer_trigger1(myTimer: func.TimerRequest) -> None:
         "Content-Type": "application/json"
     }
 
-    notion_url = "https://api.notion.com/v1/databases/1c2e57be533280858f7ac8ed6de85385/query"
+    notion_url = "https://api.notion.com/v1/databases/'ton id-databse'/query"
     all_rows = []
     payload = {}
 
