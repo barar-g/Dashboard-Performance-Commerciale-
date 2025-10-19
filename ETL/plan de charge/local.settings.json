@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "AzureWebJobsStorage": "<CHAINE_CONNEXION_STORAGE_AZURE — Portail Azure → Compte de stockage → Clés d’accès → Connection string>",
+    "AZURE_STORAGE_CONNECTION_STRING": "<CHAINE_CONNEXION_STORAGE_AZURE — Portail Azure → Compte de stockage → Clés d’accès → Connection string>",
+
+    "NOTION_TOKEN": "<VOTRE_TOKEN_NOTION>",
+    "NOTION_DATABASE_ID": "<ID_BASE_NOTION>"
+  }
+}
