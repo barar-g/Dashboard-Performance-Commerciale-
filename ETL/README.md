@@ -18,7 +18,7 @@
 - `AzureWebJobsStorage` → **Chaîne de connexion Azure Storage** (requis par le runtime)
 - `AZURE_STORAGE_CONNECTION_STRING` → **Chaîne de connexion Azure Storage** (upload CSV)
 - `NOTION_TOKEN` → **Notion Internal Integration Token**
-- `NOTION_DATABASE_ID` → **ID** de la base Notion (si nécessaire)
+- `NOTION_DATABASE_ID` → **ID** de la base Notion 
 - `HUBSPOT_TOKEN` → **HubSpot Private App Token** (uniquement pour `hubspot-data`)
 
 > Le code lit ces valeurs via `os.environ[...]`.
