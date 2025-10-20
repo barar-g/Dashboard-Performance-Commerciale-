@@ -1,8 +1,12 @@
 # BI — Dashboard Performance Commerciale (Power BI)
 
-https://github.com/user-attachments/assets/89df5565-bc9a-4e31-8e1c-44f82249ad96
+
 
 Dossier contenant les **ressources de visualisation** : captures d’écran du dashboard, **vidéo de démonstration** et **documentation technique** (architecture globale, **Power Query / code M**, développement des **KPIs DAX**).
+
+
+https://github.com/user-attachments/assets/89df5565-bc9a-4e31-8e1c-44f82249ad96
+
 
 ## 🎯 Finalité du dashboard
 Offrir une lecture rapide et actionnable de la **performance commerciale** :
@@ -41,5 +45,5 @@ Les visuels reposent sur des **CSV alimentés automatiquement** par l’ETL (voi
 
 
 
-https://github.com/user-attachments/assets/89df5565-bc9a-4e31-8e1c-44f82249ad96
+
 
