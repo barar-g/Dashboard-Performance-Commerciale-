@@ -20,4 +20,3 @@ Dépôt vitrine (lecture seule) présentant :
 - **Joignabilité** : **taux de décrochage** (conversations / appels).
 - **Pilotage** : **réalisation des objectifs**, **délais** (génération → RDV / RDV fait), **Score Global** & **rang** par commercial.
 
-## Architecture (simplifiée)
